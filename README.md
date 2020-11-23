@@ -1,5 +1,5 @@
 # GP44-Case
-* (GPU + Power + 4x4inch-pc)=GP44-Case,This is a Computer Case project using Intel NUC and designed by SolidWorks.
+* (GPU + Power + 4x4inch-pc) = GP44-Case,This is a Computer Case project using Intel NUC and designed by SolidWorks.
 * The detailed process is recorded on reddit. [click to reddit](https://www.reddit.com/r/intelnuc/comments/je420p/nuc_gpu_power_my_case/)
 * If you like, consider buying me a cup of coffee [click to paypal](http://paypal.me/solayuta)
 
@@ -28,7 +28,7 @@
 
 # GP44-Case
 * 各位B站小伙伴以及Otermi社团的lsp们大家好。我是翻车王solayuta 
-* GP44 CASE == (内置GPU + 内置Power + 4x4英寸主板的机箱).一台电脑对于阿宅来说必不可少,最近几年ITX主机的地位在PC圈子里提高很多,特别是便携显示器,小尺寸械键盘的普及完善了小主机的体验,除了对空间占用比较敏感的学生狗之外,对于发烧友来说迷你主机也是一种小巧精致的大号手办.
+* (内置GPU + 内置Power + 4x4英寸主板) = GP44 CASE.一台电脑对于阿宅来说必不可少,最近几年ITX主机的地位在PC圈子里提高很多,特别是便携显示器,小尺寸械键盘的普及完善了小主机的体验,除了对空间占用比较敏感的学生狗之外,对于发烧友来说迷你主机也是一种小巧精致的大号手办.
 * 它代替不了笔记本以及ITX，但是我希望成为一个新标准.如果两轮电动车能满足你的需求还要什么千匹拖拉机?
 
 ## 开源
