@@ -3,7 +3,7 @@
 * The detailed process is recorded on reddit. [click to reddit](https://www.reddit.com/r/intelnuc/comments/je420p/nuc_gpu_power_my_case/)
 * If you like, consider buying me a cup of coffee [click to paypal](http://paypal.me/solayuta)
 
-# Case Plan
+## Case Plan
 * My goal is to design a case that can replace parts freely.
 * It's smaller than the Gigabyte thunderbolt 3 gamengbox dock or NUC 9 Extreme.
 * It can be an x86 soft routing / Gamingstreaming Server / Remote Workstation.
