@@ -18,7 +18,7 @@
 
 ## 打赏
 * 如果对你有帮助可以请我喝一杯辛巴克.
-![1](Screenshots/pay.png)
+* ![1](Screenshots/pay.png)
 
 ## 规格
 * 体积2.6升 156x192x90mm
