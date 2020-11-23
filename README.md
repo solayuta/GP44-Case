@@ -9,15 +9,24 @@ GP44 CASE == (内置GPU + 内置Power + 4x4英寸主板的机箱)。一台电脑
 
 
 ## 规格
-体积2.6升 156x192x90mm
-主板:带有Intel或AMD的4x4英寸 NUC主板
-显卡:尺寸MAX 186x122mm 2槽
-电源:12v 4x3英寸 400w工业电源
-风扇:3x7010
-CPU散热器:LGA2011（已经废弃）未来会按照原装散热器改进
-存储:1x2.5 SATA USB3.1gen2 to M.2 SSD
+* 体积2.6升 156x192x90mm
+* 主板:带有Intel或AMD的4x4英寸 NUC主板
+* 显卡:尺寸MAX 186x122mm 2槽
+* 电源:12v 4x3英寸 400w工业电源
+* 风扇:3x7010
+* CPU散热器:LGA2011（已经废弃）未来会按照原装散热器改进
+* 存储:1x2.5 SATA USB3.1gen2 to M.2 SSD
 
 ## 更多信息
-[B站](https://www.bilibili.com/video/BV1M54y1r7a9)
-[贴吧](https://tieba.baidu.com/p/6889419268?red_tag=2137515648)
-[Reddit](https://www.reddit.com/r/intelnuc/comments/je420p/nuc_gpu_power_my_case/)
+* [B站](https://www.bilibili.com/video/BV1M54y1r7a9)
+* [贴吧](https://tieba.baidu.com/p/6889419268?red_tag=2137515648)
+* [Reddit](https://www.reddit.com/r/intelnuc/comments/je420p/nuc_gpu_power_my_case/)
+
+## 图片
+![1](Screenshots/main1.png)
+![2](Screenshots/main2.png)
+![3](Screenshots/main3.png)
+![4](Screenshots/main4.png)
+![5](Screenshots/main5.png)
+![6](Screenshots/main6.jpg)
+![7](Screenshots/main7.jpg)
