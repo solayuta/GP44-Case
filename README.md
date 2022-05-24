@@ -1,3 +1,5 @@
+<iframe width="1217" height="685" src="https://www.youtube.com/embed/96lQVkUwZIs" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
 # GP44-Case
 * (GPU + Power + 4x4inch-pc) = GP44-Case,This is a Computer Case project using Intel NUC and designed by SolidWorks.
 * The detailed process is recorded on reddit. [click to reddit](https://www.reddit.com/r/intelnuc/comments/je420p/nuc_gpu_power_my_case/)
