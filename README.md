@@ -57,11 +57,6 @@
 * CPU散热器:LGA2011（已经废弃）未来会按照原装散热器改进
 * 存储:1x2.5 SATA USB3.1gen2 to M.2 SSD
 
-## 更多信息
-* [B站](https://www.bilibili.com/video/BV1M54y1r7a9)
-* [贴吧](https://tieba.baidu.com/p/6889419268?red_tag=2137515648)
-* [Reddit](https://www.reddit.com/r/intelnuc/comments/je420p/nuc_gpu_power_my_case/)
-* [Otermi 御宅终端-QQ群](https://jq.qq.com/?_wv=1027&k=Fa0sCnyl)
 
 ## 图片
 ![1](Screenshots/main1.png)
